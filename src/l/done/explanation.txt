@@ -1,0 +1,7 @@
+The Liskov Substitution Principle (LSP) applies to inheritance hierarchies,
+specifying that you should design your classes so that client dependencies can be substituted
+with subclasses without the client knowing about the change.
+
+We have created the class Pay - the base class and the other
+classes implement this class method's and properties but also conform its behaviour
+
