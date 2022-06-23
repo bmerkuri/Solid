@@ -1,9 +1,8 @@
-package o.before;
+package o.done;
 
-public class Applicant {
-    String firstName;
-    String lastName;
+public class Applicant extends Stafi {
     EmployeeType typeOfEmployee;
+
 
 
     public Applicant(String firstName, String lastName, EmployeeType typeOfEmployee) {
